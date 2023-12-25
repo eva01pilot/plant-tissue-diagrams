@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T13:46:25.142Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="J99hZ59v_Eod48Uc-Hvh" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-25T13:55:05.672Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="daUAXgkfrjAHp4FUzfXn" version="22.1.11" type="github">
   <diagram name="Page-1" id="hHci7Eus1n0ar48bg8fT">
     <mxGraphModel dx="1400" dy="689" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -73,7 +73,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jAcQPBiitMufRKelgAvH-48" value="ref" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="295" width="230" height="90" as="geometry" />
+          <mxGeometry x="40" y="295" width="623" height="90" as="geometry" />
         </mxCell>
         <mxCell id="jAcQPBiitMufRKelgAvH-49" value="&lt;div&gt;Выбор питательной&lt;/div&gt;&lt;div&gt;&amp;nbsp;среды&lt;/div&gt;&amp;nbsp;и объема" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="90" y="325" width="130" height="60" as="geometry" />
