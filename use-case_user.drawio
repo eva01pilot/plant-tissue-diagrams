@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T10:40:58.139Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="f4D4ixe3oagdjC5pvped" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-25T13:43:59.581Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="eBlts2J4Lwh8Fjehk4Mq" version="22.1.11" type="github">
   <diagram name="Page-1" id="4w5t4u5b5JN-xkhLOmFL">
     <mxGraphModel dx="966" dy="509" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -83,20 +83,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="310" as="sourcePoint" />
             <mxPoint x="490" y="260" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CQXgIxBLbR4aW3MP4KkY-37" value="&lt;div&gt;Ознакомление с графиками результатов расчёта компонентов питательной среды&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="550" y="320" width="140" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="CQXgIxBLbR4aW3MP4KkY-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.372;exitY=-0.052;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" parent="1" source="CQXgIxBLbR4aW3MP4KkY-37" target="CQXgIxBLbR4aW3MP4KkY-22" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="310" as="sourcePoint" />
-            <mxPoint x="490" y="260" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CQXgIxBLbR4aW3MP4KkY-39" value="&lt;div&gt;&amp;lt;extend&amp;gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="CQXgIxBLbR4aW3MP4KkY-38" vertex="1" connectable="0">
-          <mxGeometry x="-0.067" y="-2" relative="1" as="geometry">
-            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="I0tuEyCezy9iVchgh-io-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.108;exitY=0.163;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;dashed=1;exitPerimeter=0;" edge="1" parent="1" source="CQXgIxBLbR4aW3MP4KkY-22" target="CQXgIxBLbR4aW3MP4KkY-21">
