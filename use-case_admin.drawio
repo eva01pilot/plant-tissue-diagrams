@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T11:22:08.693Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="6rp3yOHazk7B5eBC1bh-" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-25T11:23:22.060Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="EeKMRxKJilYRVW9grdtU" version="22.1.11" type="github">
   <diagram name="Page-1" id="YMp2Cpx6Ega4YhYok-rs">
-    <mxGraphModel dx="1400" dy="689" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="667" dy="328" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,13 +76,13 @@
         <mxCell id="ixj-20WVYmjBP9zlAiT2-17" value="&lt;div&gt;Удаление питательных сред&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="542.5" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ixj-20WVYmjBP9zlAiT2-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.365;entryY=1.01;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="1" source="ixj-20WVYmjBP9zlAiT2-15" target="ixj-20WVYmjBP9zlAiT2-12" edge="1">
+        <mxCell id="ixj-20WVYmjBP9zlAiT2-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.365;exitY=1.01;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;exitPerimeter=0;" parent="1" source="ixj-20WVYmjBP9zlAiT2-12" target="ixj-20WVYmjBP9zlAiT2-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="412.5" as="sourcePoint" />
-            <mxPoint x="250" y="462.5" as="targetPoint" />
+            <mxPoint x="250" y="462.5" as="sourcePoint" />
+            <mxPoint x="300" y="412.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ixj-20WVYmjBP9zlAiT2-19" value="&lt;div&gt;&amp;lt;extend&amp;gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ixj-20WVYmjBP9zlAiT2-18" vertex="1" connectable="0">
+        <mxCell id="ixj-20WVYmjBP9zlAiT2-19" value="&amp;lt;include&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ixj-20WVYmjBP9zlAiT2-18" vertex="1" connectable="0">
           <mxGeometry x="0.1422" y="-2" relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
@@ -118,13 +118,13 @@
         <mxCell id="ixj-20WVYmjBP9zlAiT2-26" value="&lt;div&gt;Удаление химических соединений&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="730" y="562.5" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ixj-20WVYmjBP9zlAiT2-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="1" source="ixj-20WVYmjBP9zlAiT2-24" target="ixj-20WVYmjBP9zlAiT2-11" edge="1">
+        <mxCell id="ixj-20WVYmjBP9zlAiT2-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;exitPerimeter=0;" parent="1" source="ixj-20WVYmjBP9zlAiT2-11" target="ixj-20WVYmjBP9zlAiT2-24" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="750" y="432.5" as="sourcePoint" />
-            <mxPoint x="634" y="523.5" as="targetPoint" />
+            <mxPoint x="634" y="523.5" as="sourcePoint" />
+            <mxPoint x="750" y="432.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ixj-20WVYmjBP9zlAiT2-28" value="&amp;lt;extend&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ixj-20WVYmjBP9zlAiT2-27" vertex="1" connectable="0">
+        <mxCell id="ixj-20WVYmjBP9zlAiT2-28" value="&amp;lt;include&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ixj-20WVYmjBP9zlAiT2-27" vertex="1" connectable="0">
           <mxGeometry x="0.0153" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
