@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T12:04:35.862Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="Hjuy5kRbmXUtnk2Ne8MX" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-25T12:25:39.572Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="f19mmqlxhCiF04Ww-bzN" version="22.1.11" type="github">
   <diagram name="Page-1" id="wqFKdrsjX86GZuFU5oRi">
-    <mxGraphModel dx="1400" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1167" dy="615" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,89 +35,125 @@
           <mxGeometry x="169" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ER-Btv8LalkuQULP-5c--7" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="89" y="210" width="10" height="390" as="geometry" />
+          <mxGeometry x="89" y="210" width="10" height="440" as="geometry" />
         </mxCell>
         <mxCell id="ER-Btv8LalkuQULP-5c--8" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="224" y="230" width="10" height="370" as="geometry" />
+          <mxGeometry x="224" y="230" width="10" height="420" as="geometry" />
         </mxCell>
         <mxCell id="ER-Btv8LalkuQULP-5c--9" value="Backend API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="369" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ER-Btv8LalkuQULP-5c--10" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="424" y="387" width="10" height="207" as="geometry" />
+          <mxGeometry x="424" y="387" width="10" height="253" as="geometry" />
         </mxCell>
         <mxCell id="ER-Btv8LalkuQULP-5c--11" value="База данных" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="569" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ER-Btv8LalkuQULP-5c--12" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="624" y="425" width="10" height="118" as="geometry" />
+          <mxGeometry x="624" y="425" width="10" height="165" as="geometry" />
         </mxCell>
-        <mxCell id="ER-Btv8LalkuQULP-5c--13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ER-Btv8LalkuQULP-5c--17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="99" y="250" as="sourcePoint" />
-            <mxPoint x="224" y="250" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="179" y="250" />
-            </Array>
+            <mxPoint x="235" y="480" as="sourcePoint" />
+            <mxPoint x="425" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ER-Btv8LalkuQULP-5c--14" value="&lt;div&gt;Выбор химического&lt;/div&gt;&lt;div&gt;&amp;nbsp;соединения&lt;br&gt;&lt;/div&gt;&lt;div&gt;из таблицы&lt;/div&gt;&lt;div&gt;химических &lt;br&gt;&lt;/div&gt;&lt;div&gt;соединений&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ER-Btv8LalkuQULP-5c--13">
-          <mxGeometry x="-0.28" relative="1" as="geometry">
-            <mxPoint x="15" y="40" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ER-Btv8LalkuQULP-5c--15" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.4;entryY=0.393;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ER-Btv8LalkuQULP-5c--7" target="ER-Btv8LalkuQULP-5c--8">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="350" as="sourcePoint" />
-            <mxPoint x="210" y="360" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ER-Btv8LalkuQULP-5c--16" value="&lt;div&gt;Нажатие на кнопку&lt;/div&gt;&lt;div&gt;&quot;Редактировать&quot;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ER-Btv8LalkuQULP-5c--15">
-          <mxGeometry x="-0.1603" y="-1" relative="1" as="geometry">
-            <mxPoint x="15" y="19" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ER-Btv8LalkuQULP-5c--17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="ER-Btv8LalkuQULP-5c--8" target="ER-Btv8LalkuQULP-5c--10">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="350" as="sourcePoint" />
-            <mxPoint x="420" y="300" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ER-Btv8LalkuQULP-5c--18" value="&lt;div&gt;Отправка http запроса&lt;/div&gt;&lt;div&gt;на обновление&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ER-Btv8LalkuQULP-5c--17">
+        <mxCell id="ER-Btv8LalkuQULP-5c--18" value="&lt;div&gt;Отправка http запроса&lt;/div&gt;&lt;div&gt;на создание&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ER-Btv8LalkuQULP-5c--17">
           <mxGeometry x="-0.3158" relative="1" as="geometry">
             <mxPoint x="31" y="19" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ER-Btv8LalkuQULP-5c--19" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.4;entryY=0.697;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="434" y="440.001" as="sourcePoint" />
-            <mxPoint x="620" y="440.001" as="targetPoint" />
+            <mxPoint x="434" y="507.001" as="sourcePoint" />
+            <mxPoint x="620" y="507.001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ER-Btv8LalkuQULP-5c--20" value="&lt;div&gt;Отправка запроса&lt;/div&gt;&lt;div&gt;в базу для обновления&lt;br&gt;&lt;/div&gt;&lt;div&gt;сущности&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ER-Btv8LalkuQULP-5c--19">
+        <mxCell id="ER-Btv8LalkuQULP-5c--20" value="&lt;div&gt;Отправка запроса&lt;/div&gt;&lt;div&gt;в базу для создания&lt;br&gt;&lt;/div&gt;&lt;div&gt;сущности&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ER-Btv8LalkuQULP-5c--19">
           <mxGeometry x="0.2366" y="-2" relative="1" as="geometry">
             <mxPoint x="-19" y="18" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ER-Btv8LalkuQULP-5c--21" value="&lt;div&gt;Возврат информации &lt;br&gt;&lt;/div&gt;&lt;div&gt;об обновленной сущности&lt;br&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="ER-Btv8LalkuQULP-5c--12" target="ER-Btv8LalkuQULP-5c--10">
+        <mxCell id="ER-Btv8LalkuQULP-5c--21" value="&lt;div&gt;Возврат информации &lt;br&gt;&lt;/div&gt;&lt;div&gt;о созданной сущности&lt;br&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="570" y="530" as="sourcePoint" />
-            <mxPoint x="490" y="530" as="targetPoint" />
+            <mxPoint x="624" y="580" as="sourcePoint" />
+            <mxPoint x="434" y="580" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="530" y="530" />
+              <mxPoint x="530" y="580" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ER-Btv8LalkuQULP-5c--22" value="&lt;div&gt;Возврат на клиент &lt;br&gt;&lt;/div&gt;&lt;div&gt;состояния запроса&lt;br&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="424" y="570" as="sourcePoint" />
-            <mxPoint x="234" y="570" as="targetPoint" />
+            <mxPoint x="424" y="600" as="sourcePoint" />
+            <mxPoint x="234" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ER-Btv8LalkuQULP-5c--23" value="&lt;div&gt;Уведомление &lt;br&gt;&lt;/div&gt;&lt;div&gt;пользователя&lt;/div&gt;&lt;div&gt;об успешности &lt;br&gt;&lt;/div&gt;&lt;div&gt;операции&lt;br&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;" edge="1" parent="1" source="ER-Btv8LalkuQULP-5c--8" target="ER-Btv8LalkuQULP-5c--7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="190" y="593" as="sourcePoint" />
             <mxPoint x="110" y="593" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ER-Btv8LalkuQULP-5c--24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="99" y="280" as="sourcePoint" />
+            <mxPoint x="224" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ER-Btv8LalkuQULP-5c--25" value="&lt;div&gt;Ввод названия&lt;/div&gt;&lt;div&gt;химического&lt;/div&gt;&lt;div&gt;соединения&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ER-Btv8LalkuQULP-5c--24">
+          <mxGeometry x="-0.056" relative="1" as="geometry">
+            <mxPoint y="-30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ER-Btv8LalkuQULP-5c--26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="99" y="340" as="sourcePoint" />
+            <mxPoint x="224" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ER-Btv8LalkuQULP-5c--27" value="&lt;div&gt;Ввод формулы&lt;br&gt;&lt;/div&gt;&lt;div&gt;химического&lt;/div&gt;&lt;div&gt;соединения&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ER-Btv8LalkuQULP-5c--26">
+          <mxGeometry x="-0.056" relative="1" as="geometry">
+            <mxPoint y="-30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ER-Btv8LalkuQULP-5c--28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="99" y="390" as="sourcePoint" />
+            <mxPoint x="224" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ER-Btv8LalkuQULP-5c--29" value="&lt;div&gt;Ввод типа&lt;br&gt;&lt;/div&gt;&lt;div&gt;химического&lt;/div&gt;&lt;div&gt;соединения&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ER-Btv8LalkuQULP-5c--28">
+          <mxGeometry x="-0.056" relative="1" as="geometry">
+            <mxPoint y="-30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ER-Btv8LalkuQULP-5c--31" value="&lt;div&gt;Валидация полей &lt;br&gt;&lt;/div&gt;&lt;div&gt;на клиенте по критерию:&lt;/div&gt;&lt;div&gt;&quot;Поле обязательно для&lt;/div&gt;&lt;div&gt;заполнения&quot;&lt;br&gt;&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" target="ER-Btv8LalkuQULP-5c--8" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="234" y="410" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="264" y="410" />
+              <mxPoint x="264" y="440" />
+            </Array>
+            <mxPoint x="239" y="440" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ER-Btv8LalkuQULP-5c--32" value="&lt;div&gt;Возврат&lt;/div&gt;&lt;div&gt;пользователю&lt;/div&gt;&lt;div&gt;статуса валидации&lt;br&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="ER-Btv8LalkuQULP-5c--8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="179" y="460" as="sourcePoint" />
+            <mxPoint x="99" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ER-Btv8LalkuQULP-5c--33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="99" y="470" as="sourcePoint" />
+            <mxPoint x="224" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ER-Btv8LalkuQULP-5c--34" value="&lt;div&gt;Нажатие на&lt;/div&gt;&lt;div&gt;кнопку&lt;/div&gt;&lt;div&gt;&quot;Создать&quot;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ER-Btv8LalkuQULP-5c--33">
+          <mxGeometry x="0.1872" y="-2" relative="1" as="geometry">
+            <mxPoint x="-13" y="18" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
