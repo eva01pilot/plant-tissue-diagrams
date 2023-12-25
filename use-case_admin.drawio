@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T10:37:28.203Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="05Uxi2LABq7o2jmOiFHm" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-25T11:01:32.721Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="UkzF3SvcwjH5wwyhL7Xi" version="22.1.11" type="github">
   <diagram name="Page-1" id="YMp2Cpx6Ega4YhYok-rs">
-    <mxGraphModel dx="1647" dy="811" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1400" dy="689" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,13 +16,13 @@
         <mxCell id="ixj-20WVYmjBP9zlAiT2-3" value="Авторизация" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="85" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ixj-20WVYmjBP9zlAiT2-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;entryX=0.673;entryY=0.955;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ixj-20WVYmjBP9zlAiT2-11" target="ixj-20WVYmjBP9zlAiT2-6" edge="1">
+        <mxCell id="ixj-20WVYmjBP9zlAiT2-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=0.673;exitY=0.955;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ixj-20WVYmjBP9zlAiT2-6" target="ixj-20WVYmjBP9zlAiT2-11" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="435" y="232.5" as="sourcePoint" />
-            <mxPoint x="320.0000000000007" y="267.5" as="targetPoint" />
+            <mxPoint x="320.0000000000007" y="267.5" as="sourcePoint" />
+            <mxPoint x="435" y="232.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ixj-20WVYmjBP9zlAiT2-5" value="&lt;div&gt;&amp;lt;extend&amp;gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ixj-20WVYmjBP9zlAiT2-4" vertex="1" connectable="0">
+        <mxCell id="ixj-20WVYmjBP9zlAiT2-5" value="&amp;lt;include&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ixj-20WVYmjBP9zlAiT2-4" vertex="1" connectable="0">
           <mxGeometry x="-0.1527" y="1" relative="1" as="geometry">
             <mxPoint x="8" y="9" as="offset" />
           </mxGeometry>
@@ -56,13 +56,13 @@
         <mxCell id="ixj-20WVYmjBP9zlAiT2-12" value="&lt;div&gt;Работа с питательными средами&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="422.5" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ixj-20WVYmjBP9zlAiT2-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.351;exitY=1.02;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;entryX=0.351;entryY=1.02;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="ixj-20WVYmjBP9zlAiT2-6" edge="1">
+        <mxCell id="ixj-20WVYmjBP9zlAiT2-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.351;exitY=1.02;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;entryX=0.351;entryY=1.02;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" source="ixj-20WVYmjBP9zlAiT2-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="422.5" as="sourcePoint" />
-            <mxPoint x="260" y="232.5" as="targetPoint" />
+            <mxPoint x="260" y="232.5" as="sourcePoint" />
+            <mxPoint x="180" y="422.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ixj-20WVYmjBP9zlAiT2-14" value="&amp;lt;extend&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ixj-20WVYmjBP9zlAiT2-13" vertex="1" connectable="0">
+        <mxCell id="ixj-20WVYmjBP9zlAiT2-14" value="&amp;lt;include&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ixj-20WVYmjBP9zlAiT2-13" vertex="1" connectable="0">
           <mxGeometry x="-0.0171" y="1" relative="1" as="geometry">
             <mxPoint y="-5" as="offset" />
           </mxGeometry>
