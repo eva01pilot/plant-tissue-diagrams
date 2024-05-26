@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-26T12:19:40.470Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="y7MKaQfevksg94Hcwe_k" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-26T12:22:30.127Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="lDrzs9qThKIIT0YC3FUa" version="24.4.8" type="github">
   <diagram name="Page-1" id="WSRhxzOriqXc3CymPtxh">
     <mxGraphModel dx="1434" dy="781" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -35,22 +35,22 @@
           <mxGeometry x="160" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bfcg5SJCPWeMXpy-T0YG-7" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="80" y="150" width="10" height="383" as="geometry" />
+          <mxGeometry x="80" y="150" width="10" height="305" as="geometry" />
         </mxCell>
         <mxCell id="Bfcg5SJCPWeMXpy-T0YG-8" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="215" y="150" width="10" height="382" as="geometry" />
+          <mxGeometry x="215" y="150" width="10" height="302" as="geometry" />
         </mxCell>
         <mxCell id="Bfcg5SJCPWeMXpy-T0YG-9" value="Backend API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bfcg5SJCPWeMXpy-T0YG-10" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="415" y="160" width="10" height="374" as="geometry" />
+          <mxGeometry x="415" y="160" width="10" height="292" as="geometry" />
         </mxCell>
         <mxCell id="Bfcg5SJCPWeMXpy-T0YG-11" value="База данных" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bfcg5SJCPWeMXpy-T0YG-12" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="615" y="160" width="10" height="373" as="geometry" />
+          <mxGeometry x="615" y="160" width="10" height="294" as="geometry" />
         </mxCell>
         <mxCell id="Bfcg5SJCPWeMXpy-T0YG-13" value="ref" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="61" y="170" width="609" height="63" as="geometry" />
@@ -79,10 +79,10 @@
           <mxGeometry x="225" y="316" width="197" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Bfcg5SJCPWeMXpy-T0YG-20" value="opt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="55" y="456" width="609" height="63" as="geometry" />
+          <mxGeometry x="61" y="377" width="609" height="63" as="geometry" />
         </mxCell>
         <mxCell id="Bfcg5SJCPWeMXpy-T0YG-21" value="&lt;div&gt;Просмотр результатов анализа&lt;/div&gt;&lt;div&gt;экспериментов&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="222" y="471.5" width="197" height="41" as="geometry" />
+          <mxGeometry x="228" y="392.5" width="197" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
