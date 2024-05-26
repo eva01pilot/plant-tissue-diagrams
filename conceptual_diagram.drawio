@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-26T14:35:01.557Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="_jcJeoazejjGuEH2Jyfc" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-26T14:38:06.108Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="-mZh2NmN0BifRHynzd9j" version="24.4.8" type="github">
   <diagram name="Page-1" id="AwYpYXXlwSJVcpRkPnyy">
     <mxGraphModel dx="1434" dy="781" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -111,6 +111,58 @@
         </mxCell>
         <mxCell id="7SZm2HDbBHG98LXLnaz_-76" value="1,1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7SZm2HDbBHG98LXLnaz_-75" vertex="1" connectable="0">
           <mxGeometry x="0.2455" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2ZIMoS57G2yXXOSVrxF5-13" value="Анализатор" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="287" y="390" width="260" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="2ZIMoS57G2yXXOSVrxF5-14" value="PK Код эксперимента" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2ZIMoS57G2yXXOSVrxF5-13">
+          <mxGeometry y="30" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2ZIMoS57G2yXXOSVrxF5-15" value="FK Код питательной среды" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2ZIMoS57G2yXXOSVrxF5-13">
+          <mxGeometry y="60" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2ZIMoS57G2yXXOSVrxF5-16" value="Высота растения" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2ZIMoS57G2yXXOSVrxF5-13">
+          <mxGeometry y="90" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2ZIMoS57G2yXXOSVrxF5-17" value="Количество боковых побегов" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2ZIMoS57G2yXXOSVrxF5-13">
+          <mxGeometry y="120" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2ZIMoS57G2yXXOSVrxF5-18" value="Содержание хлорофилла" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2ZIMoS57G2yXXOSVrxF5-13">
+          <mxGeometry y="150" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2ZIMoS57G2yXXOSVrxF5-19" value="Коэффициент размножения" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2ZIMoS57G2yXXOSVrxF5-13">
+          <mxGeometry y="180" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2ZIMoS57G2yXXOSVrxF5-20" value="Количество узлов" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2ZIMoS57G2yXXOSVrxF5-13">
+          <mxGeometry y="210" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2ZIMoS57G2yXXOSVrxF5-21" value="Количество настоящих листьев" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2ZIMoS57G2yXXOSVrxF5-13">
+          <mxGeometry y="240" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2ZIMoS57G2yXXOSVrxF5-22" value="Используется" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="276" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2ZIMoS57G2yXXOSVrxF5-23" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="2ZIMoS57G2yXXOSVrxF5-13" target="2ZIMoS57G2yXXOSVrxF5-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="338" y="378" as="sourcePoint" />
+            <mxPoint x="388" y="328" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2ZIMoS57G2yXXOSVrxF5-26" value="1,1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2ZIMoS57G2yXXOSVrxF5-23">
+          <mxGeometry x="-0.0458" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2ZIMoS57G2yXXOSVrxF5-24" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.008;entryY=-0.2;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2ZIMoS57G2yXXOSVrxF5-22" target="2ZIMoS57G2yXXOSVrxF5-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="521" y="288" as="sourcePoint" />
+            <mxPoint x="571" y="238" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2ZIMoS57G2yXXOSVrxF5-25" value="1,N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2ZIMoS57G2yXXOSVrxF5-24">
+          <mxGeometry x="-0.1776" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
