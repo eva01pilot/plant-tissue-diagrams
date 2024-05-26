@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-26T12:22:30.127Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="lDrzs9qThKIIT0YC3FUa" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-26T12:27:24.019Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="KFnEnJrjDJmdMcLVH2AC" version="24.4.8" type="github">
   <diagram name="Page-1" id="WSRhxzOriqXc3CymPtxh">
     <mxGraphModel dx="1434" dy="781" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
             <mxPoint x="270" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bfcg5SJCPWeMXpy-T0YG-5" value="&lt;div&gt;Администратор&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;align=center;horizontal=1;labelPosition=center;" vertex="1" parent="1">
+        <mxCell id="Bfcg5SJCPWeMXpy-T0YG-5" value="Пользователь" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;align=center;horizontal=1;labelPosition=center;" vertex="1" parent="1">
           <mxGeometry x="70" y="20" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bfcg5SJCPWeMXpy-T0YG-6" value="Интерфейс" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
