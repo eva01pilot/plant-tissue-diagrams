@@ -1,9 +1,89 @@
-<mxfile host="app.diagrams.net" modified="2024-05-26T12:16:32.356Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" version="24.4.8" etag="j8U302D7JkF-mwNrHIlZ" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-26T12:19:06.267Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="dCatVei4veiEHzf3HTWm" version="24.4.8" type="github">
   <diagram name="Page-1" id="WSRhxzOriqXc3CymPtxh">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="781" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Bfcg5SJCPWeMXpy-T0YG-1" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1" source="Bfcg5SJCPWeMXpy-T0YG-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="300" as="sourcePoint" />
+            <mxPoint x="85" y="687" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bfcg5SJCPWeMXpy-T0YG-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Bfcg5SJCPWeMXpy-T0YG-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="697" as="sourcePoint" />
+            <mxPoint x="270" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bfcg5SJCPWeMXpy-T0YG-3" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Bfcg5SJCPWeMXpy-T0YG-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="419" y="700" as="sourcePoint" />
+            <mxPoint x="270" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bfcg5SJCPWeMXpy-T0YG-4" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Bfcg5SJCPWeMXpy-T0YG-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="619" y="708" as="sourcePoint" />
+            <mxPoint x="270" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bfcg5SJCPWeMXpy-T0YG-5" value="&lt;div&gt;Администратор&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;align=center;horizontal=1;labelPosition=center;" vertex="1" parent="1">
+          <mxGeometry x="70" y="20" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bfcg5SJCPWeMXpy-T0YG-6" value="Интерфейс" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bfcg5SJCPWeMXpy-T0YG-7" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="80" y="150" width="10" height="383" as="geometry" />
+        </mxCell>
+        <mxCell id="Bfcg5SJCPWeMXpy-T0YG-8" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="215" y="150" width="10" height="382" as="geometry" />
+        </mxCell>
+        <mxCell id="Bfcg5SJCPWeMXpy-T0YG-9" value="Backend API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bfcg5SJCPWeMXpy-T0YG-10" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="415" y="160" width="10" height="374" as="geometry" />
+        </mxCell>
+        <mxCell id="Bfcg5SJCPWeMXpy-T0YG-11" value="База данных" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bfcg5SJCPWeMXpy-T0YG-12" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="615" y="160" width="10" height="373" as="geometry" />
+        </mxCell>
+        <mxCell id="Bfcg5SJCPWeMXpy-T0YG-13" value="ref" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="61" y="170" width="609" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="Bfcg5SJCPWeMXpy-T0YG-14" value="Авторизация" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="113" y="200" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Bfcg5SJCPWeMXpy-T0YG-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="Bfcg5SJCPWeMXpy-T0YG-7" target="Bfcg5SJCPWeMXpy-T0YG-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="350" as="sourcePoint" />
+            <mxPoint x="210" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bfcg5SJCPWeMXpy-T0YG-16" value="&lt;div&gt;Переход на &lt;br&gt;&lt;/div&gt;&lt;div&gt;страницу&lt;/div&gt;&lt;div&gt;&quot;/analysis&quot;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Bfcg5SJCPWeMXpy-T0YG-15">
+          <mxGeometry x="-0.1086" relative="1" as="geometry">
+            <mxPoint x="7" y="-27" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bfcg5SJCPWeMXpy-T0YG-18" value="ref" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="61" y="302" width="609" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="Bfcg5SJCPWeMXpy-T0YG-19" value="Ввод данных об экспериментах" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="225" y="316" width="197" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Bfcg5SJCPWeMXpy-T0YG-20" value="opt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="55" y="456" width="609" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="Bfcg5SJCPWeMXpy-T0YG-21" value="&lt;div&gt;Просмотр результатов анализа&lt;/div&gt;&lt;div&gt;экспериментов&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="222" y="471.5" width="197" height="41" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
