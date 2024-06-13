@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-26T12:05:55.913Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="Ntljiz5jVwj7FQEkYUkz" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-13T05:48:51.766Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="D4E1kFJoyBLOqBdc0aLn" version="24.5.4" type="github">
   <diagram name="Page-1" id="uoUocLC2qeFmE-KDkr6s">
     <mxGraphModel dx="1434" dy="781" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
         <mxCell id="cOCMEFSa-XjFwauJWfGx-28" value="&lt;div&gt;Администратор&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;align=center;horizontal=1;labelPosition=center;" parent="1" vertex="1">
           <mxGeometry x="79" y="80" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cOCMEFSa-XjFwauJWfGx-29" value="Интерфейс" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="cOCMEFSa-XjFwauJWfGx-29" value="i: Интерфейс" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="169" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cOCMEFSa-XjFwauJWfGx-30" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
@@ -40,13 +40,13 @@
         <mxCell id="cOCMEFSa-XjFwauJWfGx-31" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="224" y="250" width="10" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="cOCMEFSa-XjFwauJWfGx-32" value="Backend API" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="cOCMEFSa-XjFwauJWfGx-32" value="back: Backend API" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="369" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cOCMEFSa-XjFwauJWfGx-33" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="424" y="260" width="10" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="cOCMEFSa-XjFwauJWfGx-34" value="База данных" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="cOCMEFSa-XjFwauJWfGx-34" value="db: База данных" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="569" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cOCMEFSa-XjFwauJWfGx-35" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="cOCMEFSa-XjFwauJWfGx-30" target="cOCMEFSa-XjFwauJWfGx-31" edge="1">
@@ -58,7 +58,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cOCMEFSa-XjFwauJWfGx-36" value="&lt;div&gt;Переход к форме&lt;/div&gt;&lt;div&gt;исходных&lt;/div&gt;&lt;div&gt;данных&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="cOCMEFSa-XjFwauJWfGx-35" vertex="1" connectable="0">
+        <mxCell id="cOCMEFSa-XjFwauJWfGx-36" value="перейтиКФормеИсхДанных()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="cOCMEFSa-XjFwauJWfGx-35" vertex="1" connectable="0">
           <mxGeometry x="0.1973" y="-2" relative="1" as="geometry">
             <mxPoint x="-14" y="-32" as="offset" />
           </mxGeometry>
@@ -69,7 +69,7 @@
             <mxPoint x="420" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cOCMEFSa-XjFwauJWfGx-38" value="&lt;div&gt;Отправка http запроса&lt;/div&gt;&lt;div&gt;на получение списка&lt;/div&gt;&lt;div&gt;питательных сред&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="cOCMEFSa-XjFwauJWfGx-37" vertex="1" connectable="0">
+        <mxCell id="cOCMEFSa-XjFwauJWfGx-38" value="запрос(&quot;list_mediums&quot;)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="cOCMEFSa-XjFwauJWfGx-37" vertex="1" connectable="0">
           <mxGeometry x="0.19" y="1" relative="1" as="geometry">
             <mxPoint x="-15" y="-29" as="offset" />
           </mxGeometry>
@@ -80,24 +80,24 @@
             <mxPoint x="624" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cOCMEFSa-XjFwauJWfGx-40" value="&lt;div&gt;Запрос на&amp;nbsp;&lt;/div&gt;&lt;div&gt;получение&amp;nbsp;&lt;/div&gt;&lt;div&gt;списка&amp;nbsp;&lt;/div&gt;&lt;div&gt;питательных сред&lt;/div&gt;&lt;div&gt;из БД&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="cOCMEFSa-XjFwauJWfGx-39" vertex="1" connectable="0">
+        <mxCell id="cOCMEFSa-XjFwauJWfGx-40" value="получитьПитСреды()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="cOCMEFSa-XjFwauJWfGx-39" vertex="1" connectable="0">
           <mxGeometry x="-0.1067" y="-2" relative="1" as="geometry">
             <mxPoint x="10" y="-42" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cOCMEFSa-XjFwauJWfGx-41" value="&lt;div&gt;Возвращение списка питательных&lt;/div&gt;&lt;div&gt;сред&lt;br&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" target="cOCMEFSa-XjFwauJWfGx-33" edge="1">
+        <mxCell id="cOCMEFSa-XjFwauJWfGx-41" value="вернутьПитСреды()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" target="cOCMEFSa-XjFwauJWfGx-33" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="630" y="330" as="sourcePoint" />
             <mxPoint x="550" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cOCMEFSa-XjFwauJWfGx-42" value="&lt;div&gt;Возвращение списка питательных&lt;/div&gt;&lt;div&gt;сред на клиент&lt;br&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" target="cOCMEFSa-XjFwauJWfGx-31" edge="1">
+        <mxCell id="cOCMEFSa-XjFwauJWfGx-42" value="вернутьПитСреды()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" target="cOCMEFSa-XjFwauJWfGx-31" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="360" as="sourcePoint" />
             <mxPoint x="340" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cOCMEFSa-XjFwauJWfGx-43" value="&lt;div&gt;Уведомление&lt;/div&gt;&lt;div&gt;пользователя о&lt;/div&gt;&lt;div&gt;статусе загрузки&lt;/div&gt;&lt;div&gt;питательных&lt;/div&gt;&lt;div&gt;сред&lt;br&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" target="cOCMEFSa-XjFwauJWfGx-30" edge="1">
+        <mxCell id="cOCMEFSa-XjFwauJWfGx-43" value="уведомить(&quot;success&quot;)" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" target="cOCMEFSa-XjFwauJWfGx-30" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="220" y="390" as="sourcePoint" />
             <mxPoint x="140" y="390" as="targetPoint" />
@@ -109,7 +109,7 @@
             <mxPoint x="224" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cOCMEFSa-XjFwauJWfGx-45" value="&lt;div&gt;Выбор питательной&lt;/div&gt;&lt;div&gt;&amp;nbsp;среды&lt;/div&gt;&lt;div&gt;из списка&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="cOCMEFSa-XjFwauJWfGx-44" vertex="1" connectable="0">
+        <mxCell id="cOCMEFSa-XjFwauJWfGx-45" value="выбратьПитСреду()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="cOCMEFSa-XjFwauJWfGx-44" vertex="1" connectable="0">
           <mxGeometry x="0.224" y="1" relative="1" as="geometry">
             <mxPoint x="-16" y="-24" as="offset" />
           </mxGeometry>
@@ -120,7 +120,7 @@
             <mxPoint x="223" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cOCMEFSa-XjFwauJWfGx-47" value="&lt;div&gt;Ввод объема и&amp;nbsp;&lt;/div&gt;&lt;div&gt;концентрации&lt;/div&gt;&lt;div&gt;&amp;nbsp;питательной&lt;/div&gt;&lt;div&gt;среды&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="cOCMEFSa-XjFwauJWfGx-46" vertex="1" connectable="0">
+        <mxCell id="cOCMEFSa-XjFwauJWfGx-47" value="ввестиОбъемИКонцентрацию()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="cOCMEFSa-XjFwauJWfGx-46" vertex="1" connectable="0">
           <mxGeometry x="-0.2258" y="3" relative="1" as="geometry">
             <mxPoint x="12" y="-17" as="offset" />
           </mxGeometry>
