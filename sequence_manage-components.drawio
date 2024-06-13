@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-26T11:15:08.992Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="2ErcauaPqjl8I8CF1Io3" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-13T05:06:36.438Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="k2ELbMcei2Oe0RtYQop7" version="24.5.4" type="github">
   <diagram name="Page-1" id="M72ZeSXlDPMYfQGGNq-7">
     <mxGraphModel dx="1434" dy="781" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -61,7 +61,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iA-M8HtWg0_pPmddzpKN-22" value="&lt;div&gt;Переход к форме&amp;nbsp;&lt;/div&gt;&lt;div&gt;работы&lt;/div&gt;&lt;div&gt;с химическими&lt;/div&gt;&lt;div&gt;&amp;nbsp;соединениями&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="iA-M8HtWg0_pPmddzpKN-15" vertex="1" connectable="0">
+        <mxCell id="iA-M8HtWg0_pPmddzpKN-22" value="открытьФормуХимСоед()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="iA-M8HtWg0_pPmddzpKN-15" vertex="1" connectable="0">
           <mxGeometry x="-0.28" relative="1" as="geometry">
             <mxPoint x="15" y="30" as="offset" />
           </mxGeometry>
@@ -69,8 +69,8 @@
         <mxCell id="iA-M8HtWg0_pPmddzpKN-18" value="ref" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="61" y="270" width="609" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="iA-M8HtWg0_pPmddzpKN-19" value="&lt;div&gt;Импорт данных о химических&lt;/div&gt;&lt;div&gt;&amp;nbsp;соединениях&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="232" y="288" width="185" height="41" as="geometry" />
+        <mxCell id="iA-M8HtWg0_pPmddzpKN-19" value="импортХимСоед()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="264" y="296" width="121" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
