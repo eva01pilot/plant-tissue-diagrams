@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-13T05:20:26.238Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="9943ofSHT9-RFd-GUpxG" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-13T05:20:42.108Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="4Wc-Egj6GUMfiwbHx0nv" version="24.5.4" type="github">
   <diagram name="Page-1" id="KT2eEJgF6nvxrAjynkpU">
     <mxGraphModel dx="1434" dy="781" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
         <mxCell id="wHsNp2GTgriPA2F1LTe3-5" value="&lt;div&gt;Администратор&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;align=center;horizontal=1;labelPosition=center;" parent="1" vertex="1">
           <mxGeometry x="79" y="80" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wHsNp2GTgriPA2F1LTe3-6" value="Интерфейс" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="wHsNp2GTgriPA2F1LTe3-6" value="i: Интерфейс" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="169" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wHsNp2GTgriPA2F1LTe3-7" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
@@ -40,13 +40,13 @@
         <mxCell id="wHsNp2GTgriPA2F1LTe3-8" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="224" y="230" width="10" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="wHsNp2GTgriPA2F1LTe3-9" value="Backend API" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="wHsNp2GTgriPA2F1LTe3-9" value="back: Backend API" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="369" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wHsNp2GTgriPA2F1LTe3-10" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="424" y="387" width="10" height="207" as="geometry" />
         </mxCell>
-        <mxCell id="wHsNp2GTgriPA2F1LTe3-11" value="База данных" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="wHsNp2GTgriPA2F1LTe3-11" value="db: База данных" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="569" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wHsNp2GTgriPA2F1LTe3-12" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
